@@ -1,0 +1,386 @@
+Begin calls to openweathermap at 2018-9-26 0:6:2 (GMT).
+Call city 1: Longyearbyen, SJ. Successful.
+Call city 2: Poum, NC. Successful.
+Call city 3: san quintin, mx. City not found.
+Call city 4: Mattru, SL. Successful.
+Call city 5: taolanaro, mg. City not found.
+Call city 6: sentyabrskiy, ru. City not found.
+Call city 7: Vaini, TO. Successful.
+Call city 8: Cabo San Lucas, MX. Successful.
+Call city 9: Pevek, RU. Successful.
+Call city 10: Salinopolis, BR. Successful.
+Call city 11: Jamestown, SH. Successful.
+Call city 12: Yellowknife, CA. Successful.
+Call city 13: Arraial do Cabo, BR. Successful.
+Call city 14: Saint-Augustin, CA. Successful.
+Call city 15: Komsomolskiy, RU. Successful.
+Call city 16: Albany, AU. Successful.
+Call city 17: Port Hardy, CA. Successful.
+Call city 18: sakakah, sa. City not found.
+Call city 19: Washington DC., US. Successful.
+Call city 20: toliary, mg. City not found.
+Call city 21: Leeton, AU. Successful.
+Call city 22: nguiu, au. City not found.
+Call city 23: Valdivia, CL. Successful.
+Call city 24: Lebu, CL. Successful.
+Call city 25: Camacha, PT. Successful.
+Call city 26: Naze, JP. Successful.
+Call city 27: Rikitea, PF. Successful.
+Call city 28: tsihombe, mg. City not found.
+Call city 29: Vao, NC. Successful.
+Call city 30: Butaritari, KI. Successful.
+Call city 31: Kolokani, ML. Successful.
+Call city 32: Saint George, BM. Successful.
+Call city 33: Severo-Kurilsk, RU. Successful.
+Call city 34: Port Alfred, ZA. Successful.
+Call city 35: Kaitangata, NZ. Successful.
+Call city 36: Kanniyakumari, IN. Successful.
+Call city 37: Perevoz, RU. Successful.
+Call city 38: Aldan, RU. Successful.
+Call city 39: illoqqortoormiut, gl. City not found.
+Call city 40: Inirida, CO. Successful.
+Call city 41: Barrow, US. Successful.
+Call city 42: Te Anau, NZ. Successful.
+Call city 43: Ancud, CL. Successful.
+Call city 44: ambodifototra, mg. City not found.
+Call city 45: Hobart, AU. Successful.
+Call city 46: Okhotsk, RU. Successful.
+Call city 47: Paamiut, GL. Successful.
+Call city 48: mataura, pf. City not found.
+Call city 49: Virginia Beach, US. Successful.
+Call city 50: Agirish, RU. Successful.
+Call city 51: Bilma, NE. Successful.
+Call city 52: New Norfolk, AU. Successful.
+Call city 53: Henties Bay, NA. Successful.
+Call city 54: Avarua, CK. Successful.
+Call city 55: Qaanaaq, GL. Successful.
+Call city 56: Zaterechnyy, RU. Successful.
+Call city 57: Cape Town, ZA. Successful.
+Call city 58: Busselton, AU. Successful.
+Call city 59: grand river south east, mu. City not found.
+Call city 60: attawapiskat, ca. City not found.
+Call city 61: Traverse City, US. Successful.
+Call city 62: Thompson, CA. Successful.
+Call city 63: Nemuro, JP. Successful.
+Call city 64: Saijo, JP. Successful.
+Call city 65: Punta Arenas, CL. Successful.
+Call city 66: Hermanus, ZA. Successful.
+Call city 67: Cherskiy, RU. Successful.
+Call city 68: Bambous Virieux, MU. Successful.
+Call city 69: Castro, CL. Successful.
+Call city 70: Hilo, US. Successful.
+Call city 71: codrington, ag. City not found.
+Call city 72: Nabire, ID. Successful.
+Call city 73: Roald, NO. Successful.
+Call city 74: Coaticook, CA. Successful.
+Call city 75: Esperance, AU. Successful.
+Call city 76: Necochea, AR. Successful.
+Call city 77: Chavakkad, IN. Successful.
+Call city 78: Neuquen, AR. Successful.
+Call city 79: Oistins, BB. Successful.
+Call city 80: Mar del Plata, AR. Successful.
+Call city 81: Beyneu, KZ. Successful.
+Call city 82: East London, ZA. Successful.
+Call city 83: Mahebourg, MU. Successful.
+Call city 84: Chuy, UY. Successful.
+Call city 85: Fortuna, US. Successful.
+Call city 86: Podgorica, ME. Successful.
+Call city 87: bengkulu, id. City not found.
+Call city 88: Mugur-Aksy, RU. Successful.
+Call city 89: Alihe, CN. Successful.
+Call city 90: Lerwick, GB. Successful.
+Call city 91: Aksarka, RU. Successful.
+Call city 92: Saint-Joseph, RE. Successful.
+Call city 93: Phonhong, LA. Successful.
+Call city 94: Hornepayne, CA. Successful.
+Call city 95: Ushuaia, AR. Successful.
+Call city 96: Bredasdorp, ZA. Successful.
+Call city 97: Champasak, LA. Successful.
+Call city 98: Port Elizabeth, ZA. Successful.
+Call city 99: Gorshechnoye, RU. Successful.
+Call city 100: Victoria, SC. Successful.
+Call city 101: airai, pw. City not found.
+Call city 102: Saskylakh, RU. Successful.
+Call city 103: Carnarvon, AU. Successful.
+Call city 104: Russell, NZ. Successful.
+Call city 105: Brandon, US. Successful.
+Call city 106: Sorong, ID. Successful.
+Call city 107: Kaikalur, IN. Successful.
+Call city 108: Alofi, NU. Successful.
+Call city 109: Aklavik, CA. Successful.
+Call city 110: Udachnyy, RU. Successful.
+Call city 111: Kavaratti, IN. Successful.
+Call city 112: Cidreira, BR. Successful.
+Call city 113: Atuona, PF. Successful.
+Call city 114: marcona, pe. City not found.
+Call city 115: Asosa, ET. Successful.
+Call city 116: San Patricio, MX. Successful.
+Call city 117: Grindavik, IS. Successful.
+Call city 118: Bluff, NZ. Successful.
+Call city 119: Canico, PT. Successful.
+Call city 120: saleaula, ws. City not found.
+Call city 121: vaitupu, wf. City not found.
+Call city 122: Whitehorse, CA. Successful.
+Call city 123: Mackenzie, CA. Successful.
+Call city 124: Hofn, IS. Successful.
+Call city 125: Lethem, GY. Successful.
+Call city 126: Kruisfontein, ZA. Successful.
+Call city 127: Barsovo, RU. Successful.
+Call city 128: Marabba, SD. Successful.
+Call city 129: Hobyo, SO. Successful.
+Call city 130: Labuhan, ID. Successful.
+Call city 131: Sikonge, TZ. Successful.
+Call city 132: Leningradskiy, RU. Successful.
+Call city 133: Marawi, SD. Successful.
+Call city 134: Ostersund, SE. Successful.
+Call city 135: Formosa, BR. Successful.
+Call city 136: Passo de Camaragibe, BR. Successful.
+Call city 137: Upernavik, GL. Successful.
+Call city 138: Hakui, JP. Successful.
+Call city 139: Cihuatlan, MX. Successful.
+Call city 140: Tuktoyaktuk, CA. Successful.
+Call city 141: Dunedin, NZ. Successful.
+Call city 142: Zhangye, CN. Successful.
+Call city 143: Saldanha, ZA. Successful.
+Call city 144: Luderitz, NA. Successful.
+Call city 145: Chicama, PE. Successful.
+Call city 146: Kahului, US. Successful.
+Call city 147: Ihosy, MG. Successful.
+Call city 148: Kavieng, PG. Successful.
+Call city 149: Sterling, US. Successful.
+Call city 150: Kendari, ID. Successful.
+Call city 151: belushya guba, ru. City not found.
+Call city 152: Kihei, US. Successful.
+Call city 153: Leh, IN. Successful.
+Call city 154: Bilibino, RU. Successful.
+Call city 155: Limbuhan, PH. Successful.
+Call city 156: Eyl, SO. Successful.
+Call city 157: goderich, sl. City not found.
+Call city 158: mrirt, ma. City not found.
+Call city 159: Vardo, NO. Successful.
+Call city 160: Provideniya, RU. Successful.
+Call city 161: tobermory, gb. City not found.
+Call city 162: Nanortalik, GL. Successful.
+Call city 163: Muros, ES. Successful.
+Call city 164: Jizan, SA. Successful.
+Call city 165: Opole Lubelskie, PL. Successful.
+Call city 166: Leshukonskoye, RU. Successful.
+Call city 167: Byron Bay, AU. Successful.
+Call city 168: Kodiak, US. Successful.
+Call city 169: Georgetown, SH. Successful.
+Call city 170: Kupang, ID. Successful.
+Call city 171: Chitrakonda, IN. Successful.
+Call city 172: Eureka, US. Successful.
+Call city 173: Nara, ML. Successful.
+Call city 174: emba, kz. City not found.
+Call city 175: Hithadhoo, MV. Successful.
+Call city 176: Santa Maria, CV. Successful.
+Call city 177: Deer Lake, CA. Successful.
+Call city 178: Saint-Philippe, RE. Successful.
+Call city 179: Yar-Sale, RU. Successful.
+Call city 180: Mandali, IQ. Successful.
+Call city 181: Chokurdakh, RU. Successful.
+Call city 182: Stepnyak, KZ. Successful.
+Call city 183: Dalmatovo, RU. Successful.
+Call city 184: Maragogi, BR. Successful.
+Call city 185: Dubbo, AU. Successful.
+Call city 186: Lazaro Cardenas, MX. Successful.
+Call city 187: Ribeira Grande, PT. Successful.
+Call city 188: Vostok, RU. Successful.
+Call city 189: Touros, BR. Successful.
+Call city 190: Surgut, RU. Successful.
+Call city 191: Discovery Bay, JM. Successful.
+Call city 192: Yerbogachen, RU. Successful.
+Call city 193: Sao Filipe, CV. Successful.
+Call city 194: Adrar, DZ. Successful.
+Call city 195: Warren, US. Successful.
+Call city 196: Varna, RU. Successful.
+Call city 197: Los Aquijes, PE. Successful.
+Call city 198: kawana waters, au. City not found.
+Call city 199: Tasiilaq, GL. Successful.
+Call city 200: Nehe, CN. Successful.
+Call city 201: Alyangula, AU. Successful.
+Call city 202: wala, pa. City not found.
+Call city 203: laguna, br. City not found.
+Call city 204: gat, ly. City not found.
+Call city 205: Ilulissat, GL. Successful.
+Call city 206: Zhigansk, RU. Successful.
+Call city 207: Katsuura, JP. Successful.
+Call city 208: Whitley Bay, GB. Successful.
+Call city 209: Sinnamary, GF. Successful.
+Call city 210: Kattivakkam, IN. Successful.
+Call city 211: Lewisporte, CA. Successful.
+Call city 212: Pangnirtung, CA. Successful.
+Call city 213: Sept-Iles, CA. Successful.
+Call city 214: Inhambane, MZ. Successful.
+Call city 215: Prainha, BR. Successful.
+Call city 216: tumannyy, ru. City not found.
+Call city 217: Tuatapere, NZ. Successful.
+Call city 218: Pacific Grove, US. Successful.
+Call city 219: Caucaia, BR. Successful.
+Call city 220: Trinidad, CU. Successful.
+Call city 221: Yuci, CN. Successful.
+Call city 222: nizhneyansk, ru. City not found.
+Call city 223: Lagoa, PT. Successful.
+Call city 224: Kapaa, US. Successful.
+Call city 225: Biak, ID. Successful.
+Call city 226: Atlantic Beach, US. Successful.
+Call city 227: Asyut, EG. Successful.
+Call city 228: kuhestan, af. City not found.
+Call city 229: warqla, dz. City not found.
+Call city 230: Dikson, RU. Successful.
+Call city 231: Noumea, NC. Successful.
+Call city 232: Mombetsu, JP. Successful.
+Call city 233: Villa Maria, AR. Successful.
+Call city 234: Berlevag, NO. Successful.
+Call city 235: Iqaluit, CA. Successful.
+Call city 236: Korla, CN. Successful.
+Call city 237: Tornio, FI. Successful.
+Call city 238: Archidona, EC. Successful.
+Call city 239: Hulan Ergi, CN. Successful.
+Call city 240: Khvoynaya, RU. Successful.
+Call city 241: Allapalli, IN. Successful.
+Call city 242: Fenelon Falls, CA. Successful.
+Call city 243: Bang Saphan, TH. Successful.
+Call city 244: Doka, SD. Successful.
+Call city 245: tawkar, sd. City not found.
+Call city 246: Puerto Ayora, EC. Successful.
+Call city 247: Amuntai, ID. Successful.
+Call city 248: Flinders, AU. Successful.
+Call city 249: Scarborough, GB. Successful.
+Call city 250: Terme, TR. Successful.
+Call city 251: Guerrero Negro, MX. Successful.
+Call city 252: Ca Mau, VN. Successful.
+Call city 253: Torbay, CA. Successful.
+Call city 254: Xining, CN. Successful.
+Call city 255: tukrah, ly. City not found.
+Call city 256: Praia da Vitoria, PT. Successful.
+Call city 257: umzimvubu, za. City not found.
+Call city 258: Mackay, AU. Successful.
+Call city 259: Alamosa, US. Successful.
+Call city 260: Lorengau, PG. Successful.
+Call city 261: Tuy Hoa, VN. Successful.
+Call city 262: Liverpool, CA. Successful.
+Call city 263: Ko Samui, TH. Successful.
+Call city 264: Barra do Garcas, BR. Successful.
+Call city 265: Port Lincoln, AU. Successful.
+Call city 266: Skoghall, SE. Successful.
+Call city 267: Bredy, RU. Successful.
+Call city 268: Jose Bonifacio, BR. Successful.
+Call city 269: Newport, US. Successful.
+Call city 270: Gualeguaychu, AR. Successful.
+Call city 271: Bria, CF. Successful.
+Call city 272: Lafia, NG. Successful.
+Call city 273: Baykit, RU. Successful.
+Call city 274: Bahia Blanca, AR. Successful.
+Call city 275: haibowan, cn. City not found.
+Call city 276: Fethiye, TR. Successful.
+Call city 277: Norman Wells, CA. Successful.
+Call city 278: Chake Chake, TZ. Successful.
+Call city 279: Suda, RU. Successful.
+Call city 280: Kamaishi, JP. Successful.
+Call city 281: Clyde River, CA. Successful.
+Call city 282: Vestmannaeyjar, IS. Successful.
+Call city 283: lolua, tv. City not found.
+Call city 284: mys shmidta, ru. City not found.
+Call city 285: Ust-Ilimsk, RU. Successful.
+Call city 286: Lompoc, US. Successful.
+Call city 287: Robertsport, LR. Successful.
+Call city 288: Kieta, PG. Successful.
+Call city 289: Srednekolymsk, RU. Successful.
+Call city 290: Nikolskoye, RU. Successful.
+Call city 291: Khatanga, RU. Successful.
+Call city 292: Calama, CL. Successful.
+Call city 293: Tokur, RU. Successful.
+Call city 294: Monze, ZM. Successful.
+Call city 295: Nouakchott, MR. Successful.
+Call city 296: Hambantota, LK. Successful.
+Call city 297: Sitka, US. Successful.
+Call city 298: karomatan, ph. City not found.
+Call city 299: kabare, cd. City not found.
+Call city 300: pokrovsk-uralskiy, ru. City not found.
+Call city 301: Dindori, IN. Successful.
+Call city 302: Tiksi, RU. Successful.
+Call city 303: mahadday weyne, so. City not found.
+Call city 304: Luganville, VU. Successful.
+Call city 305: Udimskiy, RU. Successful.
+Call city 306: Muzambinho, BR. Successful.
+Call city 307: Yerofey Pavlovich, RU. Successful.
+Call city 308: Gescher, DE. Successful.
+Call city 309: Bardiyah, LY. Successful.
+Call city 310: Klaksvik, FO. Successful.
+Call city 311: Kondopoga, RU. Successful.
+Call city 312: Sembakung, ID. Successful.
+Call city 313: Caririacu, BR. Successful.
+Call city 314: Zhicheng, CN. Successful.
+Call city 315: asau, tv. City not found.
+Call city 316: Tobol, KZ. Successful.
+Call city 317: Rafraf, TN. Successful.
+Call city 318: Shangrao, CN. Successful.
+Call city 319: Abha, SA. Successful.
+Call city 320: Ures, MX. Successful.
+Call city 321: Rio Gallegos, AR. Successful.
+Call city 322: Ahtopol, BG. Successful.
+Call city 323: Onokhoy, RU. Successful.
+Call city 324: Santa Rosa, BO. Successful.
+Call city 325: Geraldton, AU. Successful.
+Call city 326: Eastbourne, GB. Successful.
+Call city 327: Padang, ID. Successful.
+Call city 328: Taksimo, RU. Successful.
+Call city 329: Miram Shah, PK. Successful.
+Call city 330: Hualmay, PE. Successful.
+Call city 331: Villarrica, CL. Successful.
+Call city 332: Pirovskoye, RU. Successful.
+Call city 333: Palu, ID. Successful.
+Call city 334: Sao Miguel do Araguaia, BR. Successful.
+Call city 335: Senanga, ZM. Successful.
+Call city 336: Superior, US. Successful.
+Call city 337: Uruacu, BR. Successful.
+Call city 338: urdzhar, kz. City not found.
+Call city 339: Awbari, LY. Successful.
+Call city 340: tabiauea, ki. City not found.
+Call city 341: Mbinga, TZ. Successful.
+Call city 342: Zdvinsk, RU. Successful.
+Call city 343: Tecoanapa, MX. Successful.
+Call city 344: Yatou, CN. Successful.
+Call city 345: murgasi, ro. City not found.
+Call city 346: zhanatas, kz. City not found.
+Call city 347: Namibe, AO. Successful.
+Call city 348: Shingu, JP. Successful.
+Call city 349: wahran, dz. City not found.
+Call city 350: Riyadh, SA. Successful.
+Call city 351: Tilichiki, RU. Successful.
+Call city 352: cheuskiny, ru. City not found.
+Call city 353: Axim, GH. Successful.
+Call city 354: Manta, EC. Successful.
+Call city 355: Ostrovnoy, RU. Successful.
+Call city 356: palabuhanratu, id. City not found.
+Call city 357: Grand Gaube, MU. Successful.
+Call city 358: tlahualilo, mx. City not found.
+Call city 359: Bandarbeyla, SO. Successful.
+Call city 360: Kaz, RU. Successful.
+Call city 361: Dhidhdhoo, MV. Successful.
+Call city 362: Preobrazheniye, RU. Successful.
+Call city 363: Porto Walter, BR. Successful.
+Call city 364: Sulangan, PH. Successful.
+Call city 365: Salalah, OM. Successful.
+Call city 366: Canete, CL. Successful.
+Call city 367: Hauterive, CA. Successful.
+Call city 368: Bambanglipuro, ID. Successful.
+Call city 369: Kirando, TZ. Successful.
+Call city 370: Lavrentiya, RU. Successful.
+Call city 371: Talnakh, RU. Successful.
+Call city 372: Sao Desiderio, BR. Successful.
+Call city 373: Sete, FR. Successful.
+Call city 374: pietersburg, za. City not found.
+Call city 375: mahon, es. City not found.
+Call city 376: Huaicheng, CN. Successful.
+Call city 377: Jati, PK. Successful.
+Call city 378: Westport, IE. Successful.
+Call city 379: Sabang, ID. Successful.
+Call city 380: Oulainen, FI. Successful.
+Call city 381: Soyo, AO. Successful.
+Call city 382: Shizunai, JP. Successful.
+Call city 383: Mitsamiouli, KM. Successful.
+Call city 384: Beihai, CN. Successful.
+Call city 385: Pisco, PE. Successful.

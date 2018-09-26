@@ -1,0 +1,3 @@
+Begin calls to openweathermap at 2018-9-25 20:37:42 (GMT).
+Call city 1: East London, ZA. Successful.
+Calls completed at 2018-9-25 20:37:42 (GMT).
